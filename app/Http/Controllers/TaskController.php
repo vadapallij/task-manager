@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
+use app\Models\Task;
 
 use Illuminate\Http\Request;
 
